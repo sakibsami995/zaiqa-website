@@ -1,3 +1,67 @@
-.nav{
-    padding: 10px;
+body{
+    height: 800px;
+    
+    background-repeat: no-repeat;
+    background: radial-gradient(at top left,#e6caaf, rgb(255, 255, 255));
+}
+.navbar ul{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style: none;
+
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+
+}
+.navbar li{
+    color: rgb(255, 158, 32);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    float: left;
+    position: relative;
+    left: 25%;
+    font-size: 12px;
+}
+#one{
+    background-color: rgb(56, 21, 21);
+    border-radius: 25px;
+}
+#gg{
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(44, 14, 14) rgb(255, 141, 11);
+}
+.gg{
+    margin: 20px;
+}
+.kk{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+    font-size: 40px;
+}
+.five{
+    border-radius: 35px; 
+}
+.six{
+    margin: 20px;
+    font-size: 8px;
+}
+.nh{
+    background-color: #ffd68b;
+    color: rgb(58, 15, 15);
+    border: none;
+    padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  position: relative;
+  left: 34%;
+  border-radius: 20px;
+}
+.lk{
+    margin: 20px;
 }

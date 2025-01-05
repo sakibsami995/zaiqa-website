@@ -1,5 +1,5 @@
 body{
-    height: 800px;
+    height: 1200px;
     
     background-repeat: no-repeat;
     background: radial-gradient(at top left,#e6caaf, rgb(255, 255, 255));
@@ -43,7 +43,8 @@ body{
     font-size: 40px;
 }
 .five{
-    border-radius: 35px; 
+    border-radius: 35px;
+    padding-left: 5px; 
 }
 .six{
     margin: 20px;
@@ -59,9 +60,47 @@ body{
   display: inline-block;
   font-size: 12px;
   position: relative;
-  left: 34%;
+  left: 35%;
   border-radius: 20px;
 }
 .lk{
     margin: 20px;
+}
+.food{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#food{
+    padding-right: 40px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(51, 12, 12);
+    background-color: #ffd68b;
+    border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 25px;
+    border: none;
+    position: relative;
+    left: 37%;
+
+}
+#rr{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 8px;
+    text-align: center;
+    
+    padding-right: 50px;
+}
+#uu{
+    padding-right: 55px;
+}
+#pp{
+    height: 100px;
+    position: relative;
+    float: right;
+    padding-right: 55px;
+}
+.ii{
+    margin-left: 67px;
 }
